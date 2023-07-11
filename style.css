@@ -1,0 +1,13 @@
+.Container{
+    border: 5px;
+    border-radius: 70px 70px 70px 70px;
+    background-color: rgb(181, 220, 230);
+    height: 600px;
+    width: 300px;
+}
+input[type="number"]{
+    background-color: rgb(245, 247, 156);
+}
+button[type="button"]{
+    background-color: rgb(245, 247, 156);
+}
